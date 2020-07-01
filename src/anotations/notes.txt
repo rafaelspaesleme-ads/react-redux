@@ -1,0 +1,2 @@
+#### dentro do store, no reducer, será aonde ficará alocado os dados do endpoint.
+
